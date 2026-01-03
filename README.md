@@ -65,7 +65,6 @@ g++ FoodOrderingSystem.cpp -o food_order
 
 Run the executable
 
-./food_order
 
 📄 File Handling
 
