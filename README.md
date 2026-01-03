@@ -43,15 +43,6 @@ Formatting output (iomanip)
 FoodOrderingSystem.cpp
 orders.txt   (auto-created when an order is placed)
 
-🧑‍🍳 Menu Items
-ID	Item	Price (Rs.)
-1	Pizza	199.99
-2	Burger	99.49
-3	Pasta	149.99
-4	Sandwich	79.50
-5	French Fries	59.99
-6	Cold Drink	39.00
-▶️ How to Run the Program
 
 Clone the repository
 
